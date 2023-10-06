@@ -1,0 +1,2 @@
+# Collatz
+Well, it works
